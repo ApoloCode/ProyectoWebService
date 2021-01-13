@@ -1,5 +1,9 @@
 # Cómo ejecutar el programa
 
+Integrantes: 
+- Axel David García Beltrán
+- Carlos Arturo Velázquez Nolasco 
+
 Para correr el programa, es necesario tener instalado Ruby 2.7.0 o superior. Luego, siga los siguientes pasos:
 
 1. Clonar este repositorio de Git.

@@ -1,9 +1,0 @@
-\babel@toc {spanish}{}
-\contentsline {section}{\numberline {1}Introducción}{2}%
-\contentsline {section}{\numberline {2}Análisis del Problema}{2}%
-\contentsline {subsection}{\numberline {2.1}Datos de Entrada}{2}%
-\contentsline {subsection}{\numberline {2.2}Proceso Algorítmico}{3}%
-\contentsline {subsection}{\numberline {2.3}Datos de Salida}{3}%
-\contentsline {section}{\numberline {3}Diseño del Programa}{4}%
-\contentsline {subsection}{\numberline {3.1}TDAs}{5}%
-\contentsline {section}{\numberline {4}Mantenimiento y Costo}{7}%
